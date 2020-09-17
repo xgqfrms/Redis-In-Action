@@ -8,7 +8,7 @@ https://www.cnblogs.com/xgqfrms/p/13530420.html
 # redis-server version
 $ redis-server -v
 $ redis-server --version
-# redis-6.0.6
+# Redis server v=6.0.6 sha=00000000:0 malloc=libc bits=64 build=5b8f79637e2b0790
 
 # redis-client version
 $ redis-cli -v
